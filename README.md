@@ -41,5 +41,5 @@ Hoy aplico lo mismo al análisis: pregunta de negocio primero, indicador despué
 ---
 
 <p align="center">
-  <i>Abierto a roles de analista de datos junior · remoto LATAM</i>
+  <i>Abierto a roles de analista de datos · remoto LATAM</i>
 </p>
