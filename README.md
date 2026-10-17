@@ -5,7 +5,7 @@
 <h1 align="center">Jackson Yangua</h1>
 
 <p align="center">
-  <b>Analista de datos junior</b> · Ecuador · abierto a remoto en LATAM<br>
+  <b>Analista de datos</b> · Ecuador · abierto a remoto en LATAM<br>
   SQL (BigQuery) · Looker Studio · Excel · Python en curso
 </p>
 
